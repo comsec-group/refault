@@ -9,3 +9,8 @@ This, along with other repositories available at [refault-artifacts](https://git
 REFault consists of
 
 - **Fault Injection Interposer**: The hardware design files of our interposer can be found at [refault-artifacts/fault-injection-interposer](https://github.com/refault-artifacts/fault-injection-interposer).
+
+- **Injection Controller**: The hardware files of our injection controller baseboard can be found at [refault-artifacts/injection-controller](https://github.com/refault-artifacts/injection-controller).
+
+- **Memtest**: Our modified version of [Memtest86+](https://github.com/memtest86plus/memtest86plus) which we used as experiment host software,
+can be found at [refault-artifacts/memtest](https://github.com/refault-artifacts/memtest).
