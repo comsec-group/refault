@@ -4,3 +4,6 @@
 [submodule "injection-controller"]
 	path = injection-controller
 	url = git@github.com:refault-artifacts/injection-controller.git
+[submodule "memtest"]
+	path = memtest
+	url = git@github.com:refault-artifacts/memtest.git
