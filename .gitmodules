@@ -7,3 +7,6 @@
 [submodule "memtest"]
 	path = memtest
 	url = git@github.com:refault-artifacts/memtest.git
+[submodule "control-server"]
+	path = control-server
+	url = git@github.com:refault-artifacts/control-server.git
