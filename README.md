@@ -14,3 +14,5 @@ REFault consists of
 
 - **Memtest**: Our modified version of [Memtest86+](https://github.com/memtest86plus/memtest86plus) which we used as experiment host software,
 can be found at [refault-artifacts/memtest](https://github.com/refault-artifacts/memtest).
+
+- **Control Server**: The scripts and setup instructions for our central control server can be found at [refault-artifacts/injection-controller](https://github.com/refault-artifacts/control-server).
