@@ -1,0 +1,3 @@
+[submodule "fault-injection-interposer"]
+	path = fault-injection-interposer
+	url = git@github.com:refault-artifacts/fault-injection-interposer.git
