@@ -3,10 +3,10 @@ A Fault Injection Platform for Rowhammer Research on DDR5 Memory
 
 ## Introduction
 Welcome to the REFault repository!
-This, along with other repositories available at [refault-artifacts](https://github.com/refault-artifacts), provides the resources needed to examine, reproduce, and extend our work. For additional information about REFault, please refer to the accompanying paper.
+This, along with other repositories available at [refault-artifacts](https://github.com/refault-artifacts), provides the resources needed to examine, reproduce, and extend our work. For additional information about REFault, please refer to the accompanying paper on the [uASC '25 page](https://uasc.cc/).
 
 ## Components
-REFault consists of
+REFault consists of the following four components:
 
 - **Fault Injection Interposer**: The hardware design files of our interposer can be found at [refault-artifacts/fault-injection-interposer](https://github.com/refault-artifacts/fault-injection-interposer).
 
@@ -16,3 +16,17 @@ REFault consists of
 can be found at [refault-artifacts/memtest](https://github.com/refault-artifacts/memtest).
 
 - **Control Server**: The scripts and setup instructions for our central control server can be found at [refault-artifacts/injection-controller](https://github.com/refault-artifacts/control-server).
+
+## How to cite
+
+Please use the following BibTeX entry to cite our work:
+
+```
+@inproceedings{refault.uasc25,
+  title = {{{REFault}}: {{A Fault Injection Platform}} for {{Rowhammer Research}} on {{DDR5 Memory}}},
+  booktitle = {1st {{Microarchitecture Security Conference}} ({{$\mu$ASC}} '25)},
+  author = {Gloor, Stefan and Jattke, Patrick and Razavi, Kaveh},
+  year = {2025},
+  month = feb
+}
+```
