@@ -3,9 +3,10 @@ A Fault Injection Platform for Rowhammer Research on DDR5 Memory
 
 ## Introduction
 Welcome to the REFault repository!
-This, along with other repositories available at [refault-artifacts](https://github.com/refault-artifacts), provides the resources needed to examine, reproduce, and extend our work. For additional information about REFault, please refer to the accompanying paper on the [uASC '25 page](https://uasc.cc/).
+This, along with other repositories available at [refault-artifacts](https://github.com/refault-artifacts), provides the resources needed to examine, reproduce, and extend our work. For additional information about REFault, please refer to the accompanying paper on the [uASC '25 page](https://uasc.cc/) or
+on the [ETH Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/723735).
 
-This work is based on a bachelor's thesis which is available [here](https://files.stefan-gloor.ch/thesis.pdf).
+This work is based on a bachelor's thesis which is available [here](https://www.research-collection.ethz.ch/handle/20.500.11850/722911).
 
 ## Components
 REFault consists of the following four components:
